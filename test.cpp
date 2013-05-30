@@ -2,7 +2,7 @@
 using namespace std;
 
 // test pour github
-//tes modif
+//test modif
 int main ()
 {
 echo<<"test";
