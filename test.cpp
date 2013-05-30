@@ -6,5 +6,5 @@ using namespace std;
 int main ()
 {
 echo<<"test";
-return0
+return 0;
 }
